@@ -1,4 +1,4 @@
-train_set =[
+basic_training_data =[
     # ======================= 1. 黴菌基礎知識 ====================
     {
         "category": "黴菌基礎知識",
@@ -523,4 +523,4 @@ train_set =[
 
 if __name__ == '__main__' :
 
-    print(len(train_set))
+    print(len(basic_training_data))
